@@ -47,8 +47,7 @@ Execute button
 Delete button
 Expression preview
 
-4. Mathematical Evaluation
-Supports:
+Mathematical Evaluation Supports:
 + Addition
 - Subtraction
 * Multiplication
